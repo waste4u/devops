@@ -2,7 +2,7 @@ public class Login
 {
 	public static void main(String args[])
 	{
-		int a = 200;
+		int a = 150;
 
 		System.out.println("Hello World");
 	}
