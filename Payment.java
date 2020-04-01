@@ -6,9 +6,5 @@
 		}
 
 
-	Class
-		{
-			printf("Second update");
-
-		}
+	Project demand change now we have to perform something else.
 
